@@ -1,7 +1,7 @@
 # Matplotlib-Tutorial
 Learn Matplotlib ussing Python via this Jupyter Notebook
 
-## Installating Jupyter Notebook
+## Installing Jupyter Notebook
 
 #### Jupyter Notebook is the best tool when it comes to using Matplotlib. Here are steps you need to follow to install Jupyter Notebook in your machine. Jupyter Notebook requires 3 modules to run in your machine (i.e. jupyter-lab, notebook & voila). 
 
@@ -10,4 +10,5 @@ Learn Matplotlib ussing Python via this Jupyter Notebook
 ##### 3. Once installation is complete, create a folder in your desktop.
 ##### 4. Open the folder in your terminal (in Linux, right click the folder and select "Open in Terminal" in Windows provide the path in cmd).
 ##### 5. In you terminal, type jupyter-lab. You will be redirected to your browser.
-##### 6. In your browser, click the Notebook tab to create a new notebook.
+##### 6. In your browser, click the Notebook tab to create a new notebook. (Marked with the red circle)
+![notebook](https://user-images.githubusercontent.com/78599959/179916889-2510460a-c373-487c-9f9a-3c71d479780d.png)
